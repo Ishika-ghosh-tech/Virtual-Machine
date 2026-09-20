@@ -1,4 +1,4 @@
-# Virtual Machine Lab
+# Cloud Computing Lab
 
 This repository contains my practical work, experiments, configurations, and documentation for the **Virtual Machine (VM) Lab**.
 
